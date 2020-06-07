@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothMessenger</string>
+    <string name="search_device_bluetooth_text">Szukaj urządzeń bluetooth</string>
+    <string name="search_devices">Szukaj urządzeń</string>
+    <string name="message_hint">Tutaj wpisz wiadomość...</string>
+    <string name="send">Wyślij</string>
+    <string name="no_support_bluetooth">Urządzenie nie obsługuje bluetooth</string>
+    <string name="server">Serwer</string>
+    <string name="client">Klient</string>
+    <string name="received_message_text">Odebrano wiadomość:</string>
+    <string name="is_no_message_text">Brak wiadomości</string>
+    <string name="searching_text">Szuka...</string>
+    <string name="bluetooth_off">Bluetooth wyłączone ;/</string>
+    <string name="bluetooth_on">Bluetooth włączone :)</string>
+    <string name="turning_off_bluetooth">Bluetooth jest wyłączane ;|</string>
+    <string name="turning_on_bluetooth">Bluetooth jest włączane ;)</string>
+    <string name="write_message_hint_text">Napisz wiadomość...</string>
+</resources>

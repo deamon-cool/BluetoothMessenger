@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#C50091EA"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/device_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:textSize="20dp"
+        android:textColor="@color/colorWhite"/>
+
+    <TextView
+        android:id="@+id/device_mac"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:textSize="20dp"
+        android:textColor="@color/colorWhite"/>
+
+</LinearLayout>
