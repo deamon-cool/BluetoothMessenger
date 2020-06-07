@@ -1,5 +1,5 @@
 <h1>BluetoothMessenger app</h1>
-<p>Simple Application that allows sending messenges between two devices through Bluetooth.
+<p>Simple Application that allows sending messanges between two devices through Bluetooth.
 In main page you can choose option 'SERVER' or 'CLIENT' for you device depending from how you would like to connect with other device.
 For more instructions see under images.
 <br>
